@@ -98,6 +98,8 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <!-- activates reproducible builds, will be replaced by release:prepare -->
     <project.build.outputTimestamp>2023-01-01T00:00:00Z</project.build.outputTimestamp>
+    <sonar.organization>imanolmarana</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
   <issueManagement>
